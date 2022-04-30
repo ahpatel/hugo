@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Patel&#39;s Landing Page</title>
+    <link>https://ahpatel.github.io/</link>
+    <description>Recent content on Anish Patel&#39;s Landing Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ahpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://ahpatel.github.io/about/</link>
+      <pubDate>Fri, 29 Apr 2022 22:40:15 -0400</pubDate>
+      
+      <guid>https://ahpatel.github.io/about/</guid>
+      <description>I am here. </description>
+    </item>
+    
+  </channel>
+</rss>
